@@ -1,0 +1,4214 @@
+j=0
+chose 2157
+j=1
+chose 46706
+j=2
+chose 58536
+j=3
+chose 60576
+j=4
+chose 32838
+j=5
+chose 44459
+j=6
+chose 39487
+j=7
+chose 47683
+j=8
+chose 58897
+j=9
+chose 56092
+j=10
+chose 34041
+j=11
+chose 15736
+j=12
+chose 8285
+j=13
+chose 53209
+j=14
+chose 4077
+j=15
+chose 40243
+j=16
+chose 4397
+j=17
+chose 49797
+j=18
+chose 1283
+j=19
+chose 59504
+j=20
+chose 47664
+j=21
+chose 22985
+j=22
+chose 16766
+j=23
+chose 27922
+j=24
+chose 35200
+j=25
+chose 17684
+j=26
+chose 29793
+j=27
+chose 22607
+j=28
+chose 260
+j=29
+chose 22773
+j=30
+chose 1240
+j=31
+chose 13317
+j=32
+chose 53430
+j=33
+chose 6431
+j=34
+chose 9098
+j=35
+chose 6192
+j=36
+chose 52943
+j=37
+chose 31849
+j=38
+chose 48468
+j=39
+chose 23219
+j=40
+chose 20136
+j=41
+j=42
+chose 27622
+j=43
+chose 29715
+j=44
+chose 58226
+j=45
+chose 58418
+j=46
+chose 32817
+j=47
+chose 54349
+j=48
+chose 19575
+j=49
+chose 48610
+j=50
+chose 50358
+j=51
+chose 47240
+j=52
+chose 56426
+j=53
+chose 26279
+j=54
+chose 21417
+j=55
+chose 42245
+j=56
+chose 11866
+j=57
+chose 51902
+j=58
+j=59
+chose 26534
+j=60
+chose 20061
+j=61
+chose 18342
+j=62
+chose 31018
+j=63
+chose 33158
+j=64
+chose 20145
+j=65
+chose 12329
+j=66
+chose 51443
+j=67
+chose 16845
+j=68
+chose 38758
+j=69
+chose 7383
+j=70
+chose 2201
+j=71
+chose 49893
+j=72
+chose 6867
+j=73
+chose 2213
+j=74
+chose 56365
+j=75
+chose 36786
+j=76
+chose 19288
+j=77
+chose 56273
+j=78
+chose 47363
+j=79
+chose 61364
+j=80
+chose 10184
+j=81
+chose 30538
+j=82
+chose 19318
+j=83
+chose 52245
+j=84
+chose 18352
+j=85
+chose 32742
+j=86
+chose 45318
+j=87
+j=88
+chose 12706
+j=89
+chose 40362
+j=90
+chose 15740
+j=91
+chose 23230
+j=92
+chose 21803
+j=93
+chose 50203
+j=94
+chose 46075
+j=95
+chose 900
+j=96
+chose 52851
+j=97
+chose 4197
+j=98
+chose 32866
+j=99
+chose 7816
+j=100
+chose 31066
+j=101
+j=102
+chose 5503
+j=103
+chose 11068
+j=104
+chose 25322
+j=105
+chose 17329
+j=106
+chose 55728
+j=107
+chose 34247
+j=108
+chose 18782
+j=109
+chose 6211
+j=110
+chose 14434
+j=111
+chose 233
+j=112
+chose 32189
+j=113
+chose 11707
+j=114
+chose 51696
+j=115
+chose 59785
+j=116
+chose 52389
+j=117
+chose 8629
+j=118
+chose 40481
+j=119
+chose 15499
+j=120
+chose 53942
+j=121
+chose 24603
+j=122
+chose 37466
+j=123
+chose 20353
+j=124
+chose 58393
+j=125
+chose 4605
+j=126
+chose 34282
+j=127
+chose 41478
+j=128
+chose 8690
+j=129
+chose 36902
+j=130
+chose 11260
+j=131
+chose 38212
+j=132
+chose 33058
+j=133
+chose 812
+j=134
+chose 9242
+j=135
+chose 45209
+j=136
+j=137
+chose 42909
+j=138
+chose 25997
+j=139
+chose 22555
+j=140
+j=141
+chose 60346
+j=142
+chose 39379
+j=143
+chose 48530
+j=144
+chose 25258
+j=145
+chose 6171
+j=146
+chose 60825
+j=147
+chose 27435
+j=148
+chose 60797
+j=149
+chose 3580
+j=150
+chose 51998
+j=151
+chose 55572
+j=152
+chose 1667
+j=153
+j=154
+chose 39213
+j=155
+chose 9660
+j=156
+chose 4703
+j=157
+chose 14991
+j=158
+chose 42313
+j=159
+chose 37289
+j=160
+chose 52948
+j=161
+chose 17598
+j=162
+chose 58020
+j=163
+chose 21196
+j=164
+chose 60714
+j=165
+chose 58682
+j=166
+chose 7479
+j=167
+chose 49664
+j=168
+chose 32908
+j=169
+j=170
+chose 52308
+j=171
+chose 37696
+j=172
+chose 49165
+j=173
+chose 40656
+j=174
+chose 9677
+j=175
+chose 30142
+j=176
+chose 5146
+j=177
+chose 38813
+j=178
+chose 49677
+j=179
+chose 28674
+j=180
+chose 33877
+j=181
+chose 29295
+j=182
+chose 42708
+j=183
+chose 58643
+j=184
+chose 17115
+j=185
+chose 22109
+j=186
+chose 38738
+j=187
+chose 15018
+j=188
+chose 21146
+j=189
+chose 19227
+j=190
+chose 61147
+j=191
+chose 60289
+j=192
+chose 857
+j=193
+chose 28516
+j=194
+chose 4247
+j=195
+chose 6625
+j=196
+chose 11340
+j=197
+chose 11110
+j=198
+chose 3453
+j=199
+chose 37577
+j=200
+chose 36542
+j=201
+chose 9330
+j=202
+chose 3723
+j=203
+chose 28768
+j=204
+chose 45770
+j=205
+chose 33843
+j=206
+chose 23709
+j=207
+chose 50638
+j=208
+chose 52720
+j=209
+j=210
+chose 57401
+j=211
+chose 56945
+j=212
+chose 48239
+j=213
+chose 46414
+j=214
+chose 21591
+j=215
+chose 55381
+j=216
+chose 57389
+j=217
+chose 55500
+j=218
+chose 53700
+j=219
+chose 49315
+j=220
+chose 27279
+j=221
+chose 22019
+j=222
+chose 14481
+j=223
+chose 52403
+j=224
+chose 16535
+j=225
+chose 25932
+j=226
+chose 8713
+j=227
+chose 5716
+j=228
+chose 13481
+j=229
+chose 9533
+j=230
+chose 49141
+j=231
+chose 19319
+j=232
+chose 57363
+j=233
+chose 9130
+j=234
+chose 10589
+j=235
+chose 17224
+j=236
+chose 48800
+j=237
+chose 61130
+j=238
+chose 14204
+j=239
+chose 34950
+j=240
+chose 21527
+j=241
+chose 18108
+j=242
+chose 56254
+j=243
+chose 25568
+j=244
+chose 41943
+j=245
+j=246
+chose 33298
+j=247
+chose 3252
+j=248
+chose 830
+j=249
+j=250
+chose 27926
+j=251
+j=252
+chose 20910
+j=253
+chose 8331
+j=254
+chose 39663
+j=255
+chose 49151
+j=256
+chose 13608
+j=257
+chose 19361
+j=258
+chose 54689
+j=259
+chose 18719
+j=260
+chose 16270
+j=261
+chose 18108
+j=262
+chose 10992
+j=263
+chose 44843
+j=264
+chose 10407
+j=265
+chose 49602
+j=266
+chose 35726
+j=267
+chose 14422
+j=268
+chose 46827
+j=269
+chose 47388
+j=270
+chose 60408
+j=271
+chose 7211
+j=272
+chose 39217
+j=273
+chose 6822
+j=274
+chose 55819
+j=275
+chose 29034
+j=276
+chose 12297
+j=277
+chose 11513
+j=278
+chose 38694
+j=279
+j=280
+chose 10482
+j=281
+chose 60162
+j=282
+chose 15889
+j=283
+chose 58254
+j=284
+chose 56732
+j=285
+chose 5741
+j=286
+chose 39120
+j=287
+chose 41718
+j=288
+chose 44165
+j=289
+chose 27497
+j=290
+chose 4284
+j=291
+chose 52836
+j=292
+chose 55656
+j=293
+chose 362
+j=294
+chose 57397
+j=295
+chose 42338
+j=296
+chose 5096
+j=297
+chose 30685
+j=298
+chose 57901
+j=299
+j=300
+chose 43294
+j=301
+chose 37665
+j=302
+chose 10597
+j=303
+chose 4164
+j=304
+chose 42419
+j=305
+j=306
+chose 26983
+j=307
+chose 42300
+j=308
+chose 21695
+j=309
+chose 21783
+j=310
+chose 6255
+j=311
+chose 54978
+j=312
+chose 28782
+j=313
+chose 2965
+j=314
+chose 42629
+j=315
+chose 46120
+j=316
+chose 12696
+j=317
+chose 4487
+j=318
+chose 28308
+j=319
+chose 9718
+j=320
+chose 24294
+j=321
+chose 14885
+j=322
+chose 45635
+j=323
+j=324
+j=325
+chose 51922
+j=326
+chose 6117
+j=327
+chose 47770
+j=328
+chose 6927
+j=329
+chose 22133
+j=330
+chose 34220
+j=331
+chose 13178
+j=332
+chose 12453
+j=333
+chose 37933
+j=334
+chose 17755
+j=335
+chose 19337
+j=336
+chose 42221
+j=337
+chose 31385
+j=338
+chose 6823
+j=339
+chose 55816
+j=340
+chose 20073
+j=341
+chose 49789
+j=342
+chose 19439
+j=343
+chose 14400
+j=344
+chose 57511
+j=345
+chose 4922
+j=346
+j=347
+chose 6444
+j=348
+chose 56579
+j=349
+chose 25516
+j=350
+chose 1491
+j=351
+chose 514
+j=352
+chose 56126
+j=353
+chose 27394
+j=354
+chose 43877
+j=355
+chose 4973
+j=356
+chose 8437
+j=357
+chose 29429
+j=358
+chose 49024
+j=359
+chose 57172
+j=360
+chose 21171
+j=361
+chose 8553
+j=362
+j=363
+chose 14171
+j=364
+chose 8981
+j=365
+chose 45277
+j=366
+chose 47161
+j=367
+chose 13792
+j=368
+chose 41946
+j=369
+chose 16497
+j=370
+chose 6134
+j=371
+chose 54669
+j=372
+chose 5221
+j=373
+chose 26692
+j=374
+chose 31938
+j=375
+chose 47573
+j=376
+chose 16749
+j=377
+chose 2721
+j=378
+chose 57464
+j=379
+chose 31796
+j=380
+chose 49477
+j=381
+chose 14900
+j=382
+chose 1167
+j=383
+chose 28561
+j=384
+chose 57703
+j=385
+chose 24167
+j=386
+chose 55999
+j=387
+chose 45058
+j=388
+chose 39949
+j=389
+chose 3975
+j=390
+chose 17014
+j=391
+chose 14812
+j=392
+chose 33553
+j=393
+chose 56576
+j=394
+j=395
+chose 52841
+j=396
+chose 38878
+j=397
+chose 6397
+j=398
+chose 43357
+j=399
+chose 12123
+j=400
+chose 4641
+j=401
+chose 20234
+j=402
+chose 45654
+j=403
+chose 41379
+j=404
+chose 8855
+j=405
+chose 32342
+j=406
+chose 57350
+j=407
+j=408
+chose 51844
+j=409
+chose 49831
+j=410
+chose 27230
+j=411
+chose 42660
+j=412
+chose 19644
+j=413
+chose 44784
+j=414
+chose 52680
+j=415
+chose 59797
+j=416
+chose 16983
+j=417
+j=418
+chose 5715
+j=419
+chose 34443
+j=420
+chose 35565
+j=421
+chose 1115
+j=422
+chose 9181
+j=423
+chose 2284
+j=424
+chose 25185
+j=425
+chose 27653
+j=426
+j=427
+chose 6575
+j=428
+chose 38029
+j=429
+chose 23946
+j=430
+chose 18909
+j=431
+chose 11211
+j=432
+j=433
+chose 49246
+j=434
+j=435
+chose 9577
+j=436
+chose 28052
+j=437
+chose 33969
+j=438
+chose 48976
+j=439
+chose 46743
+j=440
+chose 5387
+j=441
+chose 24542
+j=442
+chose 17917
+j=443
+chose 28625
+j=444
+chose 19467
+j=445
+chose 6914
+j=446
+chose 15113
+j=447
+chose 41299
+j=448
+chose 57200
+j=449
+chose 21011
+j=450
+chose 30301
+j=451
+chose 13816
+j=452
+chose 1868
+j=453
+chose 7623
+j=454
+chose 1232
+j=455
+chose 5328
+j=456
+chose 42221
+j=457
+chose 59034
+j=458
+chose 26886
+j=459
+chose 47886
+j=460
+chose 34833
+j=461
+chose 48869
+j=462
+chose 40265
+j=463
+chose 60899
+j=464
+chose 52867
+j=465
+chose 42478
+j=466
+chose 8684
+j=467
+j=468
+chose 47201
+j=469
+chose 5563
+j=470
+chose 55716
+j=471
+chose 10420
+j=472
+chose 34259
+j=473
+chose 42032
+j=474
+chose 9095
+j=475
+chose 25642
+j=476
+chose 26676
+j=477
+chose 13897
+j=478
+chose 11205
+j=479
+chose 25360
+j=480
+chose 810
+j=481
+chose 20062
+j=482
+chose 5405
+j=483
+chose 35024
+j=484
+chose 15509
+j=485
+chose 14084
+j=486
+chose 16408
+j=487
+chose 4161
+j=488
+chose 13336
+j=489
+chose 26654
+j=490
+chose 39322
+j=491
+chose 33626
+j=492
+chose 40039
+j=493
+chose 53829
+j=494
+chose 30173
+j=495
+chose 5385
+j=496
+chose 14714
+j=497
+chose 1089
+j=498
+chose 58013
+j=499
+chose 2542
+j=500
+chose 34497
+j=501
+j=502
+chose 22664
+j=503
+chose 17897
+j=504
+chose 54720
+j=505
+chose 31251
+j=506
+chose 36235
+j=507
+chose 6515
+j=508
+chose 59913
+j=509
+chose 15521
+j=510
+chose 24769
+j=511
+chose 5346
+j=512
+chose 14043
+j=513
+chose 49831
+j=514
+chose 24808
+j=515
+chose 30288
+j=516
+chose 43135
+j=517
+chose 43312
+j=518
+chose 45205
+j=519
+chose 20868
+j=520
+chose 51039
+j=521
+chose 33439
+j=522
+chose 8714
+j=523
+chose 46861
+j=524
+chose 44638
+j=525
+chose 28516
+j=526
+chose 31175
+j=527
+chose 3996
+j=528
+chose 6318
+j=529
+chose 2659
+j=530
+chose 9661
+j=531
+chose 11192
+j=532
+chose 1288
+j=533
+chose 52568
+j=534
+j=535
+chose 2732
+j=536
+chose 26997
+j=537
+chose 18103
+j=538
+chose 5609
+j=539
+chose 5369
+j=540
+chose 12764
+j=541
+chose 29524
+j=542
+chose 15638
+j=543
+chose 54634
+j=544
+chose 48262
+j=545
+chose 54751
+j=546
+chose 16959
+j=547
+chose 30458
+j=548
+chose 46780
+j=549
+chose 3563
+j=550
+chose 34455
+j=551
+chose 5392
+j=552
+chose 34705
+j=553
+chose 30843
+j=554
+chose 35523
+j=555
+chose 35008
+j=556
+chose 43126
+j=557
+chose 24376
+j=558
+chose 58354
+j=559
+chose 33094
+j=560
+chose 51067
+j=561
+chose 10629
+j=562
+chose 24872
+j=563
+chose 4558
+j=564
+chose 57496
+j=565
+chose 24040
+j=566
+chose 38813
+j=567
+chose 694
+j=568
+chose 13801
+j=569
+chose 15896
+j=570
+chose 23102
+j=571
+chose 30197
+j=572
+chose 34986
+j=573
+chose 8222
+j=574
+chose 20229
+j=575
+chose 4403
+j=576
+chose 34128
+j=577
+chose 6141
+j=578
+chose 56230
+j=579
+chose 42457
+j=580
+chose 41217
+j=581
+chose 50848
+j=582
+chose 13068
+j=583
+chose 19363
+j=584
+chose 3924
+j=585
+chose 26460
+j=586
+chose 10929
+j=587
+chose 1036
+j=588
+chose 4273
+j=589
+chose 18261
+j=590
+chose 20706
+j=591
+j=592
+chose 30142
+j=593
+chose 42881
+j=594
+chose 19169
+j=595
+chose 36092
+j=596
+chose 34826
+j=597
+chose 37983
+j=598
+chose 7535
+j=599
+chose 48098
+j=600
+chose 3263
+j=601
+chose 5962
+j=602
+chose 33202
+j=603
+chose 55731
+j=604
+chose 47759
+j=605
+chose 17656
+j=606
+chose 47635
+j=607
+chose 7337
+j=608
+j=609
+chose 9090
+j=610
+chose 17177
+j=611
+chose 13958
+j=612
+j=613
+chose 57895
+j=614
+chose 19774
+j=615
+j=616
+chose 39333
+j=617
+chose 15047
+j=618
+chose 31732
+j=619
+chose 10316
+j=620
+chose 33957
+j=621
+chose 51261
+j=622
+chose 42655
+j=623
+chose 4328
+j=624
+chose 29504
+j=625
+chose 15640
+j=626
+chose 12594
+j=627
+chose 19833
+j=628
+chose 10646
+j=629
+j=630
+chose 51864
+j=631
+chose 27222
+j=632
+chose 53899
+j=633
+chose 51648
+j=634
+chose 60508
+j=635
+chose 17641
+j=636
+chose 3516
+j=637
+chose 53701
+j=638
+chose 53551
+j=639
+chose 8298
+j=640
+chose 35303
+j=641
+chose 33011
+j=642
+chose 34476
+j=643
+chose 53208
+j=644
+chose 2147
+j=645
+chose 54023
+j=646
+chose 29966
+j=647
+chose 40754
+j=648
+chose 22834
+j=649
+chose 21234
+j=650
+chose 43334
+j=651
+chose 5826
+j=652
+chose 18593
+j=653
+chose 12701
+j=654
+chose 59257
+j=655
+chose 7582
+j=656
+chose 45623
+j=657
+chose 28094
+j=658
+chose 55799
+j=659
+chose 27185
+j=660
+chose 56168
+j=661
+chose 54965
+j=662
+chose 47255
+j=663
+chose 576
+j=664
+chose 32559
+j=665
+chose 15683
+j=666
+chose 28695
+j=667
+chose 32425
+j=668
+chose 3280
+j=669
+chose 53862
+j=670
+chose 29881
+j=671
+chose 26895
+j=672
+chose 50296
+j=673
+chose 6687
+j=674
+chose 3198
+j=675
+chose 20557
+j=676
+chose 41078
+j=677
+chose 44921
+j=678
+chose 41251
+j=679
+chose 42542
+j=680
+chose 26770
+j=681
+chose 45137
+j=682
+chose 59170
+j=683
+chose 29479
+j=684
+chose 53376
+j=685
+chose 10520
+j=686
+chose 35281
+j=687
+chose 54741
+j=688
+chose 28555
+j=689
+chose 43431
+j=690
+chose 42343
+j=691
+chose 53119
+j=692
+chose 14483
+j=693
+chose 35057
+j=694
+chose 27417
+j=695
+chose 20167
+j=696
+chose 11467
+j=697
+chose 15173
+j=698
+chose 28411
+j=699
+chose 5420
+j=700
+chose 41622
+j=701
+chose 46556
+j=702
+chose 23150
+j=703
+chose 51675
+j=704
+chose 47854
+j=705
+chose 60504
+j=706
+chose 20332
+j=707
+chose 48066
+j=708
+chose 43198
+j=709
+chose 52623
+j=710
+chose 37470
+j=711
+chose 5197
+j=712
+chose 25443
+j=713
+j=714
+chose 17965
+j=715
+chose 49678
+j=716
+chose 48018
+j=717
+chose 29029
+j=718
+j=719
+chose 26464
+j=720
+chose 17230
+j=721
+j=722
+j=723
+chose 15047
+j=724
+chose 45943
+j=725
+chose 53051
+j=726
+chose 32261
+j=727
+chose 22667
+j=728
+chose 22200
+j=729
+j=730
+chose 9539
+j=731
+chose 17926
+j=732
+chose 12527
+j=733
+j=734
+chose 53037
+j=735
+chose 13459
+j=736
+chose 9505
+j=737
+chose 39609
+j=738
+chose 45540
+j=739
+j=740
+chose 12722
+j=741
+chose 40042
+j=742
+chose 37340
+j=743
+chose 20526
+j=744
+chose 15478
+j=745
+chose 9085
+j=746
+chose 28137
+j=747
+chose 37145
+j=748
+j=749
+chose 42007
+j=750
+chose 7744
+j=751
+chose 55229
+j=752
+chose 47259
+j=753
+chose 4069
+j=754
+chose 23975
+j=755
+chose 36699
+j=756
+chose 5829
+j=757
+chose 6056
+j=758
+chose 1998
+j=759
+chose 52707
+j=760
+chose 28673
+j=761
+chose 7790
+j=762
+chose 16379
+j=763
+chose 1988
+j=764
+chose 36277
+j=765
+chose 40637
+j=766
+chose 59492
+j=767
+chose 12006
+j=768
+chose 10739
+j=769
+chose 15985
+j=770
+chose 48507
+j=771
+j=772
+chose 50436
+j=773
+chose 45053
+j=774
+chose 52038
+j=775
+chose 5715
+j=776
+chose 56348
+j=777
+chose 9334
+j=778
+chose 24781
+j=779
+chose 21100
+j=780
+j=781
+chose 2296
+j=782
+chose 49282
+j=783
+chose 21857
+j=784
+chose 41893
+j=785
+chose 28851
+j=786
+chose 36333
+j=787
+chose 27444
+j=788
+chose 55357
+j=789
+chose 39578
+j=790
+chose 59731
+j=791
+chose 2841
+j=792
+chose 36397
+j=793
+chose 48841
+j=794
+chose 23601
+j=795
+j=796
+chose 7966
+j=797
+chose 52958
+j=798
+j=799
+chose 31870
+j=800
+chose 11979
+j=801
+chose 51632
+j=802
+chose 11788
+j=803
+chose 16126
+j=804
+chose 47360
+j=805
+chose 22886
+j=806
+chose 45349
+j=807
+chose 23526
+j=808
+j=809
+chose 60202
+j=810
+chose 26133
+j=811
+chose 51457
+j=812
+chose 1706
+j=813
+chose 18266
+j=814
+chose 5180
+j=815
+chose 27925
+j=816
+chose 58002
+j=817
+chose 46896
+j=818
+chose 24713
+j=819
+chose 36048
+j=820
+chose 18939
+j=821
+chose 57654
+j=822
+chose 32632
+j=823
+chose 37299
+j=824
+chose 49246
+j=825
+chose 18334
+j=826
+chose 29672
+j=827
+chose 47019
+j=828
+chose 19689
+j=829
+j=830
+chose 5808
+j=831
+chose 32547
+j=832
+chose 18265
+j=833
+chose 1973
+j=834
+chose 48649
+j=835
+chose 36003
+j=836
+chose 36436
+j=837
+chose 50440
+j=838
+chose 33425
+j=839
+chose 35216
+j=840
+chose 14769
+j=841
+chose 25701
+j=842
+chose 30143
+j=843
+chose 50608
+j=844
+chose 35603
+j=845
+chose 60136
+j=846
+chose 26749
+j=847
+chose 48395
+j=848
+chose 25241
+j=849
+j=850
+chose 29398
+j=851
+chose 9616
+j=852
+chose 59883
+j=853
+chose 18423
+j=854
+chose 60254
+j=855
+j=856
+chose 1866
+j=857
+chose 45362
+j=858
+chose 55934
+j=859
+chose 34044
+j=860
+chose 37914
+j=861
+chose 11904
+j=862
+chose 40392
+j=863
+chose 42487
+j=864
+chose 21565
+j=865
+chose 59143
+j=866
+chose 532
+j=867
+chose 58632
+j=868
+chose 55250
+j=869
+chose 5369
+j=870
+chose 10238
+j=871
+chose 22593
+j=872
+chose 41099
+j=873
+chose 34231
+j=874
+chose 40397
+j=875
+chose 49987
+j=876
+chose 59739
+j=877
+chose 2599
+j=878
+chose 27138
+j=879
+chose 47411
+j=880
+chose 2590
+j=881
+chose 36222
+j=882
+chose 13060
+j=883
+chose 38191
+j=884
+chose 21485
+j=885
+chose 36718
+j=886
+chose 11986
+j=887
+chose 19684
+j=888
+chose 27574
+j=889
+chose 46321
+j=890
+j=891
+chose 9550
+j=892
+chose 54022
+j=893
+chose 30827
+j=894
+chose 36522
+j=895
+chose 8220
+j=896
+chose 12511
+j=897
+chose 43514
+j=898
+chose 27198
+j=899
+chose 32705
+j=900
+chose 14830
+j=901
+chose 16679
+j=902
+chose 45634
+j=903
+chose 9628
+j=904
+chose 57159
+j=905
+chose 12172
+j=906
+chose 19933
+j=907
+chose 11062
+j=908
+chose 19451
+j=909
+chose 55133
+j=910
+chose 4444
+j=911
+chose 44573
+j=912
+chose 55780
+j=913
+chose 31325
+j=914
+chose 1360
+j=915
+j=916
+chose 30115
+j=917
+chose 49935
+j=918
+chose 44884
+j=919
+chose 5469
+j=920
+j=921
+j=922
+chose 6773
+j=923
+chose 44522
+j=924
+chose 54573
+j=925
+chose 34581
+j=926
+chose 21166
+j=927
+chose 26794
+j=928
+chose 18149
+j=929
+chose 54657
+j=930
+chose 40502
+j=931
+chose 43745
+j=932
+chose 13053
+j=933
+chose 6
+j=934
+chose 6821
+j=935
+chose 9833
+j=936
+chose 12775
+j=937
+chose 4263
+j=938
+chose 11458
+j=939
+chose 17996
+j=940
+chose 2180
+j=941
+chose 10050
+j=942
+chose 47785
+j=943
+chose 55999
+j=944
+chose 2035
+j=945
+chose 38824
+j=946
+chose 60021
+j=947
+chose 11671
+j=948
+j=949
+chose 42894
+j=950
+chose 20755
+j=951
+chose 58554
+j=952
+chose 58661
+j=953
+chose 29350
+j=954
+chose 51748
+j=955
+chose 37767
+j=956
+chose 47856
+j=957
+chose 19066
+j=958
+chose 51443
+j=959
+chose 57233
+j=960
+chose 50393
+j=961
+chose 16221
+j=962
+chose 5120
+j=963
+chose 13345
+j=964
+chose 35823
+j=965
+chose 59817
+j=966
+chose 39118
+j=967
+chose 7789
+j=968
+chose 3994
+j=969
+chose 54666
+j=970
+chose 3763
+j=971
+chose 38934
+j=972
+chose 56710
+j=973
+j=974
+chose 1948
+j=975
+chose 25296
+j=976
+chose 13484
+j=977
+chose 40169
+j=978
+chose 18174
+j=979
+chose 33974
+j=980
+chose 5814
+j=981
+chose 52011
+j=982
+chose 7185
+j=983
+chose 60714
+j=984
+chose 45019
+j=985
+chose 23520
+j=986
+chose 40549
+j=987
+chose 34513
+j=988
+chose 4947
+j=989
+chose 544
+j=990
+chose 3240
+j=991
+chose 57784
+j=992
+chose 42521
+j=993
+chose 37339
+j=994
+chose 11088
+j=995
+chose 50802
+j=996
+chose 26205
+j=997
+chose 41655
+j=998
+chose 49087
+j=999
+chose 18150
+j=1000
+chose 44342
+j=1001
+chose 16075
+j=1002
+chose 27651
+j=1003
+chose 22387
+j=1004
+chose 59721
+j=1005
+chose 16914
+j=1006
+chose 39522
+j=1007
+chose 44588
+j=1008
+chose 44283
+j=1009
+chose 57219
+j=1010
+chose 54173
+j=1011
+j=1012
+chose 42750
+j=1013
+chose 46445
+j=1014
+chose 41100
+j=1015
+chose 3615
+j=1016
+chose 12471
+j=1017
+chose 42131
+j=1018
+chose 48306
+j=1019
+chose 27615
+j=1020
+chose 46793
+j=1021
+chose 50178
+j=1022
+chose 22037
+j=1023
+chose 37368
+j=1024
+chose 2797
+j=1025
+chose 2919
+j=1026
+chose 58381
+j=1027
+chose 60619
+j=1028
+chose 583
+j=1029
+j=1030
+chose 32036
+j=1031
+chose 19125
+j=1032
+chose 48017
+j=1033
+chose 600
+j=1034
+chose 49705
+j=1035
+chose 41517
+j=1036
+chose 28325
+j=1037
+chose 19200
+j=1038
+chose 34187
+j=1039
+chose 50550
+j=1040
+chose 52581
+j=1041
+chose 5934
+j=1042
+chose 53414
+j=1043
+chose 28580
+j=1044
+chose 57300
+j=1045
+chose 59559
+j=1046
+chose 8086
+j=1047
+chose 39305
+j=1048
+chose 367
+j=1049
+chose 44257
+j=1050
+chose 2189
+j=1051
+chose 24956
+j=1052
+chose 44109
+j=1053
+chose 416
+j=1054
+chose 54647
+j=1055
+j=1056
+chose 19536
+j=1057
+chose 6176
+j=1058
+chose 382
+j=1059
+chose 25321
+j=1060
+chose 45089
+j=1061
+chose 25258
+j=1062
+chose 39557
+j=1063
+chose 51963
+j=1064
+chose 37055
+j=1065
+j=1066
+chose 33076
+j=1067
+chose 5533
+j=1068
+chose 17214
+j=1069
+chose 20232
+j=1070
+chose 25142
+j=1071
+chose 21402
+j=1072
+chose 26275
+j=1073
+chose 49065
+j=1074
+chose 9258
+j=1075
+chose 37924
+j=1076
+chose 9085
+j=1077
+chose 51542
+j=1078
+chose 20133
+j=1079
+chose 34688
+j=1080
+chose 2542
+j=1081
+chose 53328
+j=1082
+chose 34468
+j=0
+chose 2157
+j=1
+chose 46706
+j=2
+chose 58536
+j=3
+chose 60576
+j=4
+chose 32838
+j=5
+chose 44459
+j=6
+chose 39487
+j=7
+chose 47683
+j=8
+chose 58897
+j=9
+chose 56092
+j=10
+chose 34041
+j=11
+chose 15736
+j=12
+chose 8285
+j=13
+chose 53209
+j=14
+chose 4077
+j=15
+chose 40243
+j=16
+chose 4397
+j=17
+chose 49797
+j=18
+chose 1283
+j=19
+chose 59504
+j=20
+chose 47664
+j=21
+chose 22985
+j=22
+chose 16766
+j=23
+chose 27922
+j=24
+chose 35200
+j=25
+chose 17684
+j=26
+chose 29793
+j=27
+chose 22607
+j=28
+chose 260
+j=29
+chose 22773
+j=30
+chose 1240
+j=31
+chose 13317
+j=32
+chose 53430
+j=33
+chose 6431
+j=34
+chose 9098
+j=35
+chose 6192
+j=36
+chose 52943
+j=37
+chose 31849
+j=38
+chose 48468
+j=39
+chose 23219
+j=40
+chose 20136
+j=41
+j=42
+chose 27622
+j=43
+chose 29715
+j=44
+chose 58226
+j=45
+chose 58418
+j=46
+chose 32817
+j=47
+chose 54349
+j=48
+chose 19575
+j=49
+chose 48610
+j=50
+chose 50358
+j=51
+chose 47240
+j=52
+chose 56426
+j=53
+chose 26279
+j=54
+chose 21417
+j=55
+chose 42245
+j=56
+chose 11866
+j=57
+chose 51902
+j=58
+j=59
+chose 26534
+j=60
+chose 20061
+j=61
+chose 18342
+j=62
+chose 31018
+j=63
+chose 33158
+j=64
+chose 20145
+j=65
+chose 12329
+j=66
+chose 51443
+j=67
+chose 16845
+j=68
+chose 38758
+j=69
+chose 7383
+j=70
+chose 2201
+j=71
+chose 49893
+j=72
+chose 6867
+j=73
+chose 2213
+j=74
+chose 56365
+j=75
+chose 36786
+j=76
+chose 19288
+j=77
+chose 56273
+j=78
+chose 47363
+j=79
+chose 61364
+j=80
+chose 10184
+j=81
+chose 30538
+j=82
+chose 19318
+j=83
+chose 52245
+j=84
+chose 18352
+j=85
+chose 32742
+j=86
+chose 45318
+j=87
+j=88
+chose 12706
+j=89
+chose 40362
+j=90
+chose 15740
+j=91
+chose 23230
+j=92
+chose 21803
+j=93
+chose 50203
+j=94
+chose 46075
+j=95
+chose 900
+j=96
+chose 52851
+j=97
+chose 4197
+j=98
+chose 32866
+j=99
+chose 7816
+j=100
+chose 31066
+j=101
+j=102
+chose 5503
+j=103
+chose 11068
+j=104
+chose 25322
+j=105
+chose 17329
+j=106
+chose 55728
+j=107
+chose 34247
+j=108
+chose 18782
+j=109
+chose 6211
+j=110
+chose 14434
+j=111
+chose 233
+j=112
+chose 32189
+j=113
+chose 11707
+j=114
+chose 51696
+j=115
+chose 59785
+j=116
+chose 52389
+j=117
+chose 8629
+j=118
+chose 40481
+j=119
+chose 15499
+j=120
+chose 53942
+j=121
+chose 24603
+j=122
+chose 37466
+j=123
+chose 20353
+j=124
+chose 58393
+j=125
+chose 4605
+j=126
+chose 34282
+j=127
+chose 41478
+j=128
+chose 8690
+j=129
+chose 36902
+j=130
+chose 11260
+j=131
+chose 38212
+j=132
+chose 33058
+j=133
+chose 812
+j=134
+chose 9242
+j=135
+chose 45209
+j=136
+j=137
+chose 42909
+j=138
+chose 25997
+j=139
+chose 22555
+j=140
+j=141
+chose 60346
+j=142
+chose 39379
+j=143
+chose 48530
+j=144
+chose 25258
+j=145
+chose 6171
+j=146
+chose 60825
+j=147
+chose 27435
+j=148
+chose 60797
+j=149
+chose 3580
+j=150
+chose 51998
+j=151
+chose 55572
+j=152
+chose 1667
+j=153
+j=154
+chose 39213
+j=155
+chose 9660
+j=156
+chose 4703
+j=157
+chose 14991
+j=158
+chose 42313
+j=159
+chose 37289
+j=160
+chose 52948
+j=161
+chose 17598
+j=162
+chose 58020
+j=163
+chose 21196
+j=164
+chose 60714
+j=165
+chose 58682
+j=166
+chose 7479
+j=167
+chose 49664
+j=168
+chose 32908
+j=169
+j=170
+chose 52308
+j=171
+chose 37696
+j=172
+chose 49165
+j=173
+chose 40656
+j=174
+chose 9677
+j=175
+chose 30142
+j=176
+chose 5146
+j=177
+chose 38813
+j=178
+chose 49677
+j=179
+chose 28674
+j=180
+chose 33877
+j=181
+chose 29295
+j=182
+chose 42708
+j=183
+chose 58643
+j=184
+chose 17115
+j=185
+chose 22109
+j=186
+chose 38738
+j=187
+chose 15018
+j=188
+chose 21146
+j=189
+chose 19227
+j=190
+chose 61147
+j=191
+chose 60289
+j=192
+chose 857
+j=193
+chose 28516
+j=194
+chose 4247
+j=195
+chose 6625
+j=196
+chose 11340
+j=197
+chose 11110
+j=198
+chose 3453
+j=199
+chose 37577
+j=200
+chose 36542
+j=201
+chose 9330
+j=202
+chose 3723
+j=203
+chose 28768
+j=204
+chose 45770
+j=205
+chose 33843
+j=206
+chose 23709
+j=207
+chose 50638
+j=208
+chose 52720
+j=209
+j=210
+chose 57401
+j=211
+chose 56945
+j=212
+chose 48239
+j=213
+chose 46414
+j=214
+chose 21591
+j=215
+chose 55381
+j=216
+chose 57389
+j=217
+chose 55500
+j=218
+chose 53700
+j=219
+chose 49315
+j=220
+chose 27279
+j=221
+chose 22019
+j=222
+chose 14481
+j=223
+chose 52403
+j=224
+chose 16535
+j=225
+chose 25932
+j=226
+chose 8713
+j=227
+chose 5716
+j=228
+chose 13481
+j=229
+chose 9533
+j=230
+chose 49141
+j=231
+chose 19319
+j=232
+chose 57363
+j=233
+chose 9130
+j=234
+chose 10589
+j=235
+chose 17224
+j=236
+chose 48800
+j=237
+chose 61130
+j=238
+chose 14204
+j=239
+chose 34950
+j=240
+chose 21527
+j=241
+chose 18108
+j=242
+chose 56254
+j=243
+chose 25568
+j=244
+chose 41943
+j=245
+j=246
+chose 33298
+j=247
+chose 3252
+j=248
+chose 830
+j=249
+j=250
+chose 27926
+j=251
+j=252
+chose 20910
+j=253
+chose 8331
+j=254
+chose 39663
+j=255
+chose 49151
+j=256
+chose 13608
+j=257
+chose 19361
+j=258
+chose 54689
+j=259
+chose 18719
+j=260
+chose 16270
+j=261
+chose 18108
+j=262
+chose 10992
+j=263
+chose 44843
+j=264
+chose 10407
+j=265
+chose 49602
+j=266
+chose 35726
+j=267
+chose 14422
+j=268
+chose 46827
+j=269
+chose 47388
+j=270
+chose 60408
+j=271
+chose 7211
+j=272
+chose 39217
+j=273
+chose 6822
+j=274
+chose 55819
+j=275
+chose 29034
+j=276
+chose 12297
+j=277
+chose 11513
+j=278
+chose 38694
+j=279
+j=280
+chose 10482
+j=281
+chose 60162
+j=282
+chose 15889
+j=283
+chose 58254
+j=284
+chose 56732
+j=285
+chose 5741
+j=286
+chose 39120
+j=287
+chose 41718
+j=288
+chose 44165
+j=289
+chose 27497
+j=290
+chose 4284
+j=291
+chose 52836
+j=292
+chose 55656
+j=293
+chose 362
+j=294
+chose 57397
+j=295
+chose 42338
+j=296
+chose 5096
+j=297
+chose 30685
+j=298
+chose 57901
+j=299
+j=300
+chose 43294
+j=301
+chose 37665
+j=302
+chose 10597
+j=303
+chose 4164
+j=304
+chose 42419
+j=305
+j=306
+chose 26983
+j=307
+chose 42300
+j=308
+chose 21695
+j=309
+chose 21783
+j=310
+chose 6255
+j=311
+chose 54978
+j=312
+chose 28782
+j=313
+chose 2965
+j=314
+chose 42629
+j=315
+chose 46120
+j=316
+chose 12696
+j=317
+chose 4487
+j=318
+chose 28308
+j=319
+chose 9718
+j=320
+chose 24294
+j=321
+chose 14885
+j=322
+chose 45635
+j=323
+j=324
+j=325
+chose 51922
+j=326
+chose 6117
+j=327
+chose 47770
+j=328
+chose 6927
+j=329
+chose 22133
+j=330
+chose 34220
+j=331
+chose 13178
+j=332
+chose 12453
+j=333
+chose 37933
+j=334
+chose 17755
+j=335
+chose 19337
+j=336
+chose 42221
+j=337
+chose 31385
+j=338
+chose 6823
+j=339
+chose 55816
+j=340
+chose 20073
+j=341
+chose 49789
+j=342
+chose 19439
+j=343
+chose 14400
+j=344
+chose 57511
+j=345
+chose 4922
+j=346
+j=347
+chose 6444
+j=348
+chose 56579
+j=349
+chose 25516
+j=350
+chose 1491
+j=351
+chose 514
+j=352
+chose 56126
+j=353
+chose 27394
+j=354
+chose 43877
+j=355
+chose 4973
+j=356
+chose 8437
+j=357
+chose 29429
+j=358
+chose 49024
+j=359
+chose 57172
+j=360
+chose 21171
+j=361
+chose 8553
+j=362
+j=363
+chose 14171
+j=364
+chose 8981
+j=365
+chose 45277
+j=366
+chose 47161
+j=367
+chose 13792
+j=368
+chose 41946
+j=369
+chose 16497
+j=370
+chose 6134
+j=371
+chose 54669
+j=372
+chose 5221
+j=373
+chose 26692
+j=374
+chose 31938
+j=375
+chose 47573
+j=376
+chose 16749
+j=377
+chose 2721
+j=378
+chose 57464
+j=379
+chose 31796
+j=380
+chose 49477
+j=381
+chose 14900
+j=382
+chose 1167
+j=383
+chose 28561
+j=384
+chose 57703
+j=385
+chose 24167
+j=386
+chose 55999
+j=387
+chose 45058
+j=388
+chose 39949
+j=389
+chose 3975
+j=390
+chose 17014
+j=391
+chose 14812
+j=392
+chose 33553
+j=393
+chose 56576
+j=394
+j=395
+chose 52841
+j=396
+chose 38878
+j=397
+chose 6397
+j=398
+chose 43357
+j=399
+chose 12123
+j=400
+chose 4641
+j=401
+chose 20234
+j=402
+chose 45654
+j=403
+chose 41379
+j=404
+chose 8855
+j=405
+chose 32342
+j=406
+chose 57350
+j=407
+j=408
+chose 51844
+j=409
+chose 49831
+j=410
+chose 27230
+j=411
+chose 42660
+j=412
+chose 19644
+j=413
+chose 44784
+j=414
+chose 52680
+j=415
+chose 59797
+j=416
+chose 16983
+j=417
+j=418
+chose 5715
+j=419
+chose 34443
+j=420
+chose 35565
+j=421
+chose 1115
+j=422
+chose 9181
+j=423
+chose 2284
+j=424
+chose 25185
+j=425
+chose 27653
+j=426
+j=427
+chose 6575
+j=428
+chose 38029
+j=429
+chose 23946
+j=430
+chose 18909
+j=431
+chose 11211
+j=432
+j=433
+chose 49246
+j=434
+j=435
+chose 9577
+j=436
+chose 28052
+j=437
+chose 33969
+j=438
+chose 48976
+j=439
+chose 46743
+j=440
+chose 5387
+j=441
+chose 24542
+j=442
+chose 17917
+j=443
+chose 28625
+j=444
+chose 19467
+j=445
+chose 6914
+j=446
+chose 15113
+j=447
+chose 41299
+j=448
+chose 57200
+j=449
+chose 21011
+j=450
+chose 30301
+j=451
+chose 13816
+j=452
+chose 1868
+j=453
+chose 7623
+j=454
+chose 1232
+j=455
+chose 5328
+j=456
+chose 42221
+j=457
+chose 59034
+j=458
+chose 26886
+j=459
+chose 47886
+j=460
+chose 34833
+j=461
+chose 48869
+j=462
+chose 40265
+j=463
+chose 60899
+j=464
+chose 52867
+j=465
+chose 42478
+j=466
+chose 8684
+j=467
+j=468
+chose 47201
+j=469
+chose 5563
+j=470
+chose 55716
+j=471
+chose 10420
+j=472
+chose 34259
+j=473
+chose 42032
+j=474
+chose 9095
+j=475
+chose 25642
+j=476
+chose 26676
+j=477
+chose 13897
+j=478
+chose 11205
+j=479
+chose 25360
+j=480
+chose 810
+j=481
+chose 20062
+j=482
+chose 5405
+j=483
+chose 35024
+j=484
+chose 15509
+j=485
+chose 14084
+j=486
+chose 16408
+j=487
+chose 4161
+j=488
+chose 13336
+j=489
+chose 26654
+j=490
+chose 39322
+j=491
+chose 33626
+j=492
+chose 40039
+j=493
+chose 53829
+j=494
+chose 30173
+j=495
+chose 5385
+j=496
+chose 14714
+j=497
+chose 1089
+j=498
+chose 58013
+j=499
+chose 2542
+j=500
+chose 34497
+j=501
+j=502
+chose 22664
+j=503
+chose 17897
+j=504
+chose 54720
+j=505
+chose 31251
+j=506
+chose 36235
+j=507
+chose 6515
+j=508
+chose 59913
+j=509
+chose 15521
+j=510
+chose 24769
+j=511
+chose 5346
+j=512
+chose 14043
+j=513
+chose 49831
+j=514
+chose 24808
+j=515
+chose 30288
+j=516
+chose 43135
+j=517
+chose 43312
+j=518
+chose 45205
+j=519
+chose 20868
+j=520
+chose 51039
+j=521
+chose 33439
+j=522
+chose 8714
+j=523
+chose 46861
+j=524
+chose 44638
+j=525
+chose 28516
+j=526
+chose 31175
+j=527
+chose 3996
+j=528
+chose 6318
+j=529
+chose 2659
+j=530
+chose 9661
+j=531
+chose 11192
+j=532
+chose 1288
+j=533
+chose 52568
+j=534
+j=535
+chose 2732
+j=536
+chose 26997
+j=537
+chose 18103
+j=538
+chose 5609
+j=539
+chose 5369
+j=540
+chose 12764
+j=541
+chose 29524
+j=542
+chose 15638
+j=543
+chose 54634
+j=544
+chose 48262
+j=545
+chose 54751
+j=546
+chose 16959
+j=547
+chose 30458
+j=548
+chose 46780
+j=549
+chose 3563
+j=550
+chose 34455
+j=551
+chose 5392
+j=552
+chose 34705
+j=553
+chose 30843
+j=554
+chose 35523
+j=555
+chose 35008
+j=556
+chose 43126
+j=557
+chose 24376
+j=558
+chose 58354
+j=559
+chose 33094
+j=560
+chose 51067
+j=561
+chose 10629
+j=562
+chose 24872
+j=563
+chose 4558
+j=564
+chose 57496
+j=565
+chose 24040
+j=566
+chose 38813
+j=567
+chose 694
+j=568
+chose 13801
+j=569
+chose 15896
+j=570
+chose 23102
+j=571
+chose 30197
+j=572
+chose 34986
+j=573
+chose 8222
+j=574
+chose 20229
+j=575
+chose 4403
+j=576
+chose 34128
+j=577
+chose 6141
+j=578
+chose 56230
+j=579
+chose 42457
+j=580
+chose 41217
+j=581
+chose 50848
+j=582
+chose 13068
+j=583
+chose 19363
+j=584
+chose 3924
+j=585
+chose 26460
+j=586
+chose 10929
+j=587
+chose 1036
+j=588
+chose 4273
+j=589
+chose 18261
+j=590
+chose 20706
+j=591
+j=592
+chose 30142
+j=593
+chose 42881
+j=594
+chose 19169
+j=595
+chose 36092
+j=596
+chose 34826
+j=597
+chose 37983
+j=598
+chose 7535
+j=599
+chose 48098
+j=600
+chose 3263
+j=601
+chose 5962
+j=602
+chose 33202
+j=603
+chose 55731
+j=604
+chose 47759
+j=605
+chose 17656
+j=606
+chose 47635
+j=607
+chose 7337
+j=608
+j=609
+chose 9090
+j=610
+chose 17177
+j=611
+chose 13958
+j=612
+j=613
+chose 57895
+j=614
+chose 19774
+j=615
+j=616
+chose 39333
+j=617
+chose 15047
+j=618
+chose 31732
+j=619
+chose 10316
+j=620
+chose 33957
+j=621
+chose 51261
+j=622
+chose 42655
+j=623
+chose 4328
+j=624
+chose 29504
+j=625
+chose 15640
+j=626
+chose 12594
+j=627
+chose 19833
+j=628
+chose 10646
+j=629
+j=630
+chose 51864
+j=631
+chose 27222
+j=632
+chose 53899
+j=633
+chose 51648
+j=634
+chose 60508
+j=635
+chose 17641
+j=636
+chose 3516
+j=637
+chose 53701
+j=638
+chose 53551
+j=639
+chose 8298
+j=640
+chose 35303
+j=641
+chose 33011
+j=642
+chose 34476
+j=643
+chose 53208
+j=644
+chose 2147
+j=645
+chose 54023
+j=646
+chose 29966
+j=647
+chose 40754
+j=648
+chose 22834
+j=649
+chose 21234
+j=650
+chose 43334
+j=651
+chose 5826
+j=652
+chose 18593
+j=653
+chose 12701
+j=654
+chose 59257
+j=655
+chose 7582
+j=656
+chose 45623
+j=657
+chose 28094
+j=658
+chose 55799
+j=659
+chose 27185
+j=660
+chose 56168
+j=661
+chose 54965
+j=662
+chose 47255
+j=663
+chose 576
+j=664
+chose 32559
+j=665
+chose 15683
+j=666
+chose 28695
+j=667
+chose 32425
+j=668
+chose 3280
+j=669
+chose 53862
+j=670
+chose 29881
+j=671
+chose 26895
+j=672
+chose 50296
+j=673
+chose 6687
+j=674
+chose 3198
+j=675
+chose 20557
+j=676
+chose 41078
+j=677
+chose 44921
+j=678
+chose 41251
+j=679
+chose 42542
+j=680
+chose 26770
+j=681
+chose 45137
+j=682
+chose 59170
+j=683
+chose 29479
+j=684
+chose 53376
+j=685
+chose 10520
+j=686
+chose 35281
+j=687
+chose 54741
+j=688
+chose 28555
+j=689
+chose 43431
+j=690
+chose 42343
+j=691
+chose 53119
+j=692
+chose 14483
+j=693
+chose 35057
+j=694
+chose 27417
+j=695
+chose 20167
+j=696
+chose 11467
+j=697
+chose 15173
+j=698
+chose 28411
+j=699
+chose 5420
+j=700
+chose 41622
+j=701
+chose 46556
+j=702
+chose 23150
+j=703
+chose 51675
+j=704
+chose 47854
+j=705
+chose 60504
+j=706
+chose 20332
+j=707
+chose 48066
+j=708
+chose 43198
+j=709
+chose 52623
+j=710
+chose 37470
+j=711
+chose 5197
+j=712
+chose 25443
+j=713
+j=714
+chose 17965
+j=715
+chose 49678
+j=716
+chose 48018
+j=717
+chose 29029
+j=718
+j=719
+chose 26464
+j=720
+chose 17230
+j=721
+j=722
+j=723
+chose 15047
+j=724
+chose 45943
+j=725
+chose 53051
+j=726
+chose 32261
+j=727
+chose 22667
+j=728
+chose 22200
+j=729
+j=730
+chose 9539
+j=731
+chose 17926
+j=732
+chose 12527
+j=733
+j=734
+chose 53037
+j=735
+chose 13459
+j=736
+chose 9505
+j=737
+chose 39609
+j=738
+chose 45540
+j=739
+j=740
+chose 12722
+j=741
+chose 40042
+j=742
+chose 37340
+j=743
+chose 20526
+j=744
+chose 15478
+j=745
+chose 9085
+j=746
+chose 28137
+j=747
+chose 37145
+j=748
+j=749
+chose 42007
+j=750
+chose 7744
+j=751
+chose 55229
+j=752
+chose 47259
+j=753
+chose 4069
+j=754
+chose 23975
+j=755
+chose 36699
+j=756
+chose 5829
+j=757
+chose 6056
+j=758
+chose 1998
+j=759
+chose 52707
+j=760
+chose 28673
+j=761
+chose 7790
+j=762
+chose 16379
+j=763
+chose 1988
+j=764
+chose 36277
+j=765
+chose 40637
+j=766
+chose 59492
+j=767
+chose 12006
+j=768
+chose 10739
+j=769
+chose 15985
+j=770
+chose 48507
+j=771
+j=772
+chose 50436
+j=773
+chose 45053
+j=774
+chose 52038
+j=775
+chose 5715
+j=776
+chose 56348
+j=777
+chose 9334
+j=778
+chose 24781
+j=779
+chose 21100
+j=780
+j=781
+chose 2296
+j=782
+chose 49282
+j=783
+chose 21857
+j=784
+chose 41893
+j=785
+chose 28851
+j=786
+chose 36333
+j=787
+chose 27444
+j=788
+chose 55357
+j=789
+chose 39578
+j=790
+chose 59731
+j=791
+chose 2841
+j=792
+chose 36397
+j=793
+chose 48841
+j=794
+chose 23601
+j=795
+j=796
+chose 7966
+j=797
+chose 52958
+j=798
+j=799
+chose 31870
+j=800
+chose 11979
+j=801
+chose 51632
+j=802
+chose 11788
+j=803
+chose 16126
+j=804
+chose 47360
+j=805
+chose 22886
+j=806
+chose 45349
+j=807
+chose 23526
+j=808
+j=809
+chose 60202
+j=810
+chose 26133
+j=811
+chose 51457
+j=812
+chose 1706
+j=813
+chose 18266
+j=814
+chose 5180
+j=815
+chose 27925
+j=816
+chose 58002
+j=817
+chose 46896
+j=818
+chose 24713
+j=819
+chose 36048
+j=820
+chose 18939
+j=821
+chose 57654
+j=822
+chose 32632
+j=823
+chose 37299
+j=824
+chose 49246
+j=825
+chose 18334
+j=826
+chose 29672
+j=827
+chose 47019
+j=828
+chose 19689
+j=829
+j=830
+chose 5808
+j=831
+chose 32547
+j=832
+chose 18265
+j=833
+chose 1973
+j=834
+chose 48649
+j=835
+chose 36003
+j=836
+chose 36436
+j=837
+chose 50440
+j=838
+chose 33425
+j=839
+chose 35216
+j=840
+chose 14769
+j=841
+chose 25701
+j=842
+chose 30143
+j=843
+chose 50608
+j=844
+chose 35603
+j=845
+chose 60136
+j=846
+chose 26749
+j=847
+chose 48395
+j=848
+chose 25241
+j=849
+j=850
+chose 29398
+j=851
+chose 9616
+j=852
+chose 59883
+j=853
+chose 18423
+j=854
+chose 60254
+j=855
+j=856
+chose 1866
+j=857
+chose 45362
+j=858
+chose 55934
+j=859
+chose 34044
+j=860
+chose 37914
+j=861
+chose 11904
+j=862
+chose 40392
+j=863
+chose 42487
+j=864
+chose 21565
+j=865
+chose 59143
+j=866
+chose 532
+j=867
+chose 58632
+j=868
+chose 55250
+j=869
+chose 5369
+j=870
+chose 10238
+j=871
+chose 22593
+j=872
+chose 41099
+j=873
+chose 34231
+j=874
+chose 40397
+j=875
+chose 49987
+j=876
+chose 59739
+j=877
+chose 2599
+j=878
+chose 27138
+j=879
+chose 47411
+j=880
+chose 2590
+j=881
+chose 36222
+j=882
+chose 13060
+j=883
+chose 38191
+j=884
+chose 21485
+j=885
+chose 36718
+j=886
+chose 11986
+j=887
+chose 19684
+j=888
+chose 27574
+j=889
+chose 46321
+j=890
+j=891
+chose 9550
+j=892
+chose 54022
+j=893
+chose 30827
+j=894
+chose 36522
+j=895
+chose 8220
+j=896
+chose 12511
+j=897
+chose 43514
+j=898
+chose 27198
+j=899
+chose 32705
+j=900
+chose 14830
+j=901
+chose 16679
+j=902
+chose 45634
+j=903
+chose 9628
+j=904
+chose 57159
+j=905
+chose 12172
+j=906
+chose 19933
+j=907
+chose 11062
+j=908
+chose 19451
+j=909
+chose 55133
+j=910
+chose 4444
+j=911
+chose 44573
+j=912
+chose 55780
+j=913
+chose 31325
+j=914
+chose 1360
+j=915
+j=916
+chose 30115
+j=917
+chose 49935
+j=918
+chose 44884
+j=919
+chose 5469
+j=920
+j=921
+j=922
+chose 6773
+j=923
+chose 44522
+j=924
+chose 54573
+j=925
+chose 34581
+j=926
+chose 21166
+j=927
+chose 26794
+j=928
+chose 18149
+j=929
+chose 54657
+j=930
+chose 40502
+j=931
+chose 43745
+j=932
+chose 13053
+j=933
+chose 6
+j=934
+chose 6821
+j=935
+chose 9833
+j=936
+chose 12775
+j=937
+chose 4263
+j=938
+chose 11458
+j=939
+chose 17996
+j=940
+chose 2180
+j=941
+chose 10050
+j=942
+chose 47785
+j=943
+chose 55999
+j=944
+chose 2035
+j=945
+chose 38824
+j=946
+chose 60021
+j=947
+chose 11671
+j=948
+j=949
+chose 42894
+j=950
+chose 20755
+j=951
+chose 58554
+j=952
+chose 58661
+j=953
+chose 29350
+j=954
+chose 51748
+j=955
+chose 37767
+j=956
+chose 47856
+j=957
+chose 19066
+j=958
+chose 51443
+j=959
+chose 57233
+j=960
+chose 50393
+j=961
+chose 16221
+j=962
+chose 5120
+j=963
+chose 13345
+j=964
+chose 35823
+j=965
+chose 59817
+j=966
+chose 39118
+j=967
+chose 7789
+j=968
+chose 3994
+j=969
+chose 54666
+j=970
+chose 3763
+j=971
+chose 38934
+j=972
+chose 56710
+j=973
+j=974
+chose 1948
+j=975
+chose 25296
+j=976
+chose 13484
+j=977
+chose 40169
+j=978
+chose 18174
+j=979
+chose 33974
+j=980
+chose 5814
+j=981
+chose 52011
+j=982
+chose 7185
+j=983
+chose 60714
+j=984
+chose 45019
+j=985
+chose 23520
+j=986
+chose 40549
+j=987
+chose 34513
+j=988
+chose 4947
+j=989
+chose 544
+j=990
+chose 3240
+j=991
+chose 57784
+j=992
+chose 42521
+j=993
+chose 37339
+j=994
+chose 11088
+j=995
+chose 50802
+j=996
+chose 26205
+j=997
+chose 41655
+j=998
+chose 49087
+j=999
+chose 18150
+j=1000
+chose 44342
+j=1001
+chose 16075
+j=1002
+chose 27651
+j=1003
+chose 22387
+j=1004
+chose 59721
+j=1005
+chose 16914
+j=1006
+chose 39522
+j=1007
+chose 44588
+j=1008
+chose 44283
+j=1009
+chose 57219
+j=1010
+chose 54173
+j=1011
+j=1012
+chose 42750
+j=1013
+chose 46445
+j=1014
+chose 41100
+j=1015
+chose 3615
+j=1016
+chose 12471
+j=1017
+chose 42131
+j=1018
+chose 48306
+j=1019
+chose 27615
+j=1020
+chose 46793
+j=1021
+chose 50178
+j=1022
+chose 22037
+j=1023
+chose 37368
+j=1024
+chose 2797
+j=1025
+chose 2919
+j=1026
+chose 58381
+j=1027
+chose 60619
+j=1028
+chose 583
+j=1029
+j=1030
+chose 32036
+j=1031
+chose 19125
+j=1032
+chose 48017
+j=1033
+chose 600
+j=1034
+chose 49705
+j=1035
+chose 41517
+j=1036
+chose 28325
+j=1037
+chose 19200
+j=1038
+chose 34187
+j=1039
+chose 50550
+j=1040
+chose 52581
+j=1041
+chose 5934
+j=1042
+chose 53414
+j=1043
+chose 28580
+j=1044
+chose 57300
+j=1045
+chose 59559
+j=1046
+chose 8086
+j=1047
+chose 39305
+j=1048
+chose 367
+j=1049
+chose 44257
+j=1050
+chose 2189
+j=1051
+chose 24956
+j=1052
+chose 44109
+j=1053
+chose 416
+j=1054
+chose 54647
+j=1055
+j=1056
+chose 19536
+j=1057
+chose 6176
+j=1058
+chose 382
+j=1059
+chose 25321
+j=1060
+chose 45089
+j=1061
+chose 25258
+j=1062
+chose 39557
+j=1063
+chose 51963
+j=1064
+chose 37055
+j=1065
+j=1066
+chose 33076
+j=1067
+chose 5533
+j=1068
+chose 17214
+j=1069
+chose 20232
+j=1070
+chose 25142
+j=1071
+chose 21402
+j=1072
+chose 26275
+j=1073
+chose 49065
+j=1074
+chose 9258
+j=1075
+chose 37924
+j=1076
+chose 9085
+j=1077
+chose 51542
+j=1078
+chose 20133
+j=1079
+chose 34688
+j=1080
+chose 2542
+j=1081
+chose 53328
+j=1082
+chose 34468
